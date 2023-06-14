@@ -1,2 +1,2 @@
 # FurinChecker
-Simple Japanese notation variation checker
+Simple Japanese notation variation checker for Google Colaboratry
