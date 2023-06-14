@@ -4,7 +4,7 @@ Simple Japanese notation variation checker for Google Colaboratry
 Google Colabotory環境で、テキストファイルの日本語文中から異なる表記（異体字等）をつかっている名詞を出力します。 
 spaCyの機能をごく簡単に呼び出すことで、実装してみました。
 
-たとえば、次のような日本語の文章（input_sampke.txt)を与えると、
+たとえば、次のような日本語の文章のテキストファイル（input_sampke.txt)を与えると、
 
 > 附属図書館では本の貸出をしています。
 > 利用にあたっては付属図書館の規則を確認しましょう。
